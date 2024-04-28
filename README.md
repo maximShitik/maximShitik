@@ -13,15 +13,8 @@ Building personal projects to enhance my skills
 Advanced data structures
 Web development (c,java)
 Version control with Git
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about 
 
-
+- 💬 Ask me about
 Looking forward to connecting with fellow developers and learning together! 😊
 
-
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
