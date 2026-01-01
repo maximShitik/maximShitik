@@ -9,7 +9,7 @@ Contributing to open-source projects
 Building personal projects to enhance my skills
 - 🌱 I’m currently learning 
 Advanced data structures
-Web development (c,java)
+Web development (c,java,python)
 Version control with Git
 
 - 💬 Ask me about
