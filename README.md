@@ -1,18 +1,32 @@
-### Hi there 👋
-I’m a second-year computer science student at the Open University of Israel. My passion lies in coding, problem-solving, and building innovative solutions. Currently, I work with C and Java, and I’m actively seeking opportunities for jobs and projects.
+### Hi 👋 I’m Maxim
 
-Here are some ideas to get you started:
+I’m a second-year Computer Science student at the Open University of Israel, focused on building **practical software systems** and **automation tools**, not just coursework.
 
-- 🔭 I’m currently working on 
-Exploring algorithms and data structures
-Contributing to open-source projects
-Building personal projects to enhance my skills
-- 🌱 I’m currently learning 
-Advanced data structures
-Web development (c,java,python)
-Version control with Git
+I enjoy working close to the system level, designing clear architectures, and turning ideas into working products.
 
-- 💬 Ask me about
-Looking forward to connecting with fellow developers and learning together! 😊
+---
 
+### 🛠️ Tech I work with
+- **Languages:** C, Python, Java  
+- **Focus areas:** Systems programming, automation, backend logic
+- **Tools:** Git, Linux, Docker (basic), REST APIs
+
+---
+
+### 🚀 Featured Projects
+- **🧭 Novisignator – Smart Mall Navigation Bot**  
+  An AI-powered chat system that guides users to stores, offers coupons, and integrates with digital signage.  
+  👉 [Novisignator – Smart Mall Navigation Bot](https://github.com/maximShitik/Novisignator)
+
+- **🧠 Two-Pass Assembler & Preprocessor (C)**  
+  Final university project implementing a full preprocessor and assembler pipeline.  
+  👉👉 [Two-Pass Assembler & Preprocessor](https://github.com/maximShitik/openu-sysprog-preprocessor) 
+
+---
+
+### 🌱 Currently learning
+- Operating systems & low-level programming  
+- Data structures & algorithms  
+- Backend development and automation in Python
+- RAG
 
